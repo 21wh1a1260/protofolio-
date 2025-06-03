@@ -1,0 +1,44 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+.profile-photo {
+  display: block;
+  margin: 10px auto;
+  border: 3px solid #333;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+form {
+  background-color: #fff;
+  padding: 15px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.bold-text {
+  font-weight: bold;
+  text-align: center;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+}
